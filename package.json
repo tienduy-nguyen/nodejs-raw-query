@@ -27,7 +27,7 @@
     "express-session": "1.17.1",
     "ioredis": "4.23.0",
     "jsonwebtoken": "8.5.1",
-    "sqlite": "4.0.19",
+    "sqlite": "4.0.23",
     "sqlite3": "5.0.2",
     "tsyringe": "4.6.0"
   },
