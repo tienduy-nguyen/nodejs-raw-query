@@ -29,7 +29,7 @@
     "jsonwebtoken": "8.5.1",
     "sqlite": "4.0.19",
     "sqlite3": "5.0.2",
-    "tsyringe": "4.4.0"
+    "tsyringe": "4.6.0"
   },
   "devDependencies": {
     "@types/connect-redis": "0.0.16",
